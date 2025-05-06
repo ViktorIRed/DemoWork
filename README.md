@@ -1,2 +1,2 @@
 # DemoWork
-demowork.7m.pl
+[Перейти на сайт](https://demowork.7m.pl)
